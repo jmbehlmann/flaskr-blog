@@ -14,13 +14,21 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: serif;
-  color: #D1D4C9;
+  /* color: #D1D4C9; */
+  color: white;
   margin: 1rem 0;
 }
 
 a {
   color: antiquewhite;
+  color: #76ABAE;
+
 }
+
+a:hover {
+  color: #76ABAE;
+}
+
 
 hr {
   border: none;
@@ -120,11 +128,16 @@ nav ul li a, nav ul li span, header .action {
 
 .content input, .content textarea {
   margin-bottom: 1em;
+  background-color: #31363F;
+  color: white;
+  border-radius: 5px;
 }
 
 .content textarea {
   min-height: 12em;
   resize: vertical;
+  background-color: #31363F;
+  color: white;
 }
 
 input.danger {
