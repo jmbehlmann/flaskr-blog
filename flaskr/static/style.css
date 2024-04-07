@@ -1,6 +1,7 @@
 html {
   font-family: "Gill Sans", sans-serif;
-  background: #0F3460;
+  background: #082549;
+  background: #0f172a;
   padding: 1rem;
 }
 
@@ -22,11 +23,10 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: antiquewhite;
   color: #76ABAE;
-
 }
 
 a:hover {
-  color: #76ABAE;
+  color: antiquewhite;
 }
 
 
