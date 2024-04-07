@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
   background: #222831;
   border-radius: 5px;
-  color: antiquewhite;
+  color: rgb(255, 255, 255);
 }
 
 h1, h2, h3, h4, h5, h6 {
