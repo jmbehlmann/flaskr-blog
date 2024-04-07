@@ -1,23 +1,25 @@
 html {
-  font-family: sans-serif;
-  background: #eee;
+  font-family: "Gill Sans", sans-serif;
+  background: #0F3460;
   padding: 1rem;
 }
 
 body {
   max-width: 960px;
   margin: 0 auto;
-  background: white;
+  background: #222831;
+  border-radius: 5px;
+  color: antiquewhite;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: serif;
-  color: #377ba8;
+  color: #D1D4C9;
   margin: 1rem 0;
 }
 
 a {
-  color: #377ba8;
+  color: antiquewhite;
 }
 
 hr {
@@ -26,10 +28,11 @@ hr {
 }
 
 nav {
-  background: lightgray;
+  background: #31363F;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
+  border-radius: 5px;
 }
 
 nav h1 {
@@ -92,7 +95,7 @@ nav ul li a, nav ul li span, header .action {
 }
 
 .post .about {
-  color: slategray;
+  color: antiquewhite;
   font-style: italic;
 }
 
