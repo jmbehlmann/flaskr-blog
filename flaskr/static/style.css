@@ -6,22 +6,22 @@ html {
 }
 
 body {
-  max-width: 960px;
+  max-width: 780px;
   margin: 0 auto;
   background: #222831;
   border-radius: 5px;
-  color: rgb(255, 255, 255);
+  color: white;
+  color: lightcyan;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: serif;
   /* color: #D1D4C9; */
-  color: white;
+  color: lightcyan;
   margin: 1rem 0;
 }
 
 a {
-  color: antiquewhite;
   color: #76ABAE;
 }
 
@@ -103,7 +103,7 @@ nav ul li a, nav ul li span, header .action {
 }
 
 .post .about {
-  color: antiquewhite;
+  color: lightgray;
   font-style: italic;
 }
 
@@ -129,7 +129,7 @@ nav ul li a, nav ul li span, header .action {
 .content input, .content textarea {
   margin-bottom: 1em;
   background-color: #31363F;
-  color: white;
+  color: lightcyan;
   border-radius: 5px;
 }
 
@@ -137,7 +137,7 @@ nav ul li a, nav ul li span, header .action {
   min-height: 12em;
   resize: vertical;
   background-color: #31363F;
-  color: white;
+  color: lightcyan;
 }
 
 input.danger {
